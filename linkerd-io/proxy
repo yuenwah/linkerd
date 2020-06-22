@@ -1,0 +1,2 @@
+FROM gcr.io/linkerd-io/proxy:stable-2.8.0
+MAINTAINER yuenwah
